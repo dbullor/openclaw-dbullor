@@ -1,0 +1,3 @@
+[main/sessions/main/b96277ee-c227-46b2-b361-b31fcca1dc37#L2] User: Hola, respondé en una sola línea: ¿qué modelo sos?
+[main/sessions/main/b96277ee-c227-46b2-b361-b31fcca1dc37#L9] User: Hola, respondé en una sola línea: ¿qué modelo sos?
+[main/sessions/main/b96277ee-c227-46b2-b361-b31fcca1dc37#L11] Assistant: Soy litellm/downtown-miami/openrouter/openai/gpt-6-luna.
